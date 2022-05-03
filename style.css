@@ -34,9 +34,10 @@ h2, h3, p{
 }
 .block{
     display:flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: space-around;
-    margin: 5px;
-
+}
+li {
+    text-transform: none;
 }
