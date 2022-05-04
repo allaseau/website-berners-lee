@@ -40,6 +40,10 @@ button{
     background-color: orangered; 
     font-weight: bolder; 
 }
+.link{
+    text-decoration: none;
+    color: grey;
+}
 a{
     text-decoration: none;
     color: white;
@@ -49,4 +53,7 @@ li{
 }
 i{
     color: grey;
+}
+th, td{
+    padding: 15px;
 }
